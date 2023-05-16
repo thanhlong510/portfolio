@@ -1,7 +1,7 @@
 {
-  "name": "craftzdog-homepage",
+  "name": "thanhlong510-homepage",
   "version": "1.0.0",
-  "description": "Takuya's website",
+  "description": "ThanhLong's website",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
@@ -10,8 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Takuya Matsuyama",
-  "license": "MIT",
+  "author": "Nguyen Thanh Long",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.15",
     "@chakra-ui/react": "^2.4.6",
