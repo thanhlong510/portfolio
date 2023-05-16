@@ -1,5 +1,4 @@
 import {
-  Link,
   Box,
 } from '@chakra-ui/react'
 
